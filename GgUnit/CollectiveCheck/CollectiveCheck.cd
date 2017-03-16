@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Abcam.ColdFusionServices.FunctionalTests.Common.CollectiveCheck.Result">
+    <Position X="6.75" Y="3.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAAAAAABAAACAA=</HashCode>
+      <FileName>Group\Result.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GgUnit.Group.TestResult&lt;T&gt;">
+    <Position X="6.75" Y="1" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAEAAAAAAQAAAACEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Group\TestResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GgUnit.Group.TestResultSummary">
+    <Position X="10" Y="1" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Group\TestResultSummary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GgUnit.Group.Check">
+    <Position X="0.5" Y="4.25" Width="4.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="GgUnit.Group.Check.TestDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Group\Check.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Class Name="GgUnit.Group.Check.Is" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Group\Check.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAACAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Group\Check.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="GgUnit.Group.ITestCase">
+    <Position X="3.75" Y="1" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAACAQAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Group\ITestCase.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="GgUnit.Group.State">
+    <Position X="1.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAgAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Group\State.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
