@@ -119,7 +119,7 @@ namespace GgUnit.Generator
                     charWasAppended = AppendChar(c, stringBuilder);
                     break;
                 default:
-                    throw new ArgumentOutOfRangeException("characterType");
+                    throw new ArgumentOutOfRangeException(nameof(characterType));
             }
 
             return charWasAppended;
