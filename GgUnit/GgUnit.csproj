@@ -30,8 +30,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Fare, Version=1.0.2.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Fare.1.0.2\lib\net35\Fare.dll</HintPath>
+    <Reference Include="Fare, Version=1.0.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Fare.1.0.3\lib\net35\Fare.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
