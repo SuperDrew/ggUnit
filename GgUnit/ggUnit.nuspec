@@ -15,7 +15,7 @@
     <tags>Testing Stochastic</tags>
   </metadata>
     <files>
-      <file src="bin\Release\GgUnit.dll" target="lib\net45"/>
-      <file src="bin\Release\GgUnit.pdb" target="lib\net45"/>
+      <file src="bin\Debug\GgUnit.dll" target="lib\net45"/>
+      <file src="bin\Debug\GgUnit.pdb" target="lib\net45"/>
     </files>
 </package>
