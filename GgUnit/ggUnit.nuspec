@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>ggUnit</id>
+    <version>0.0.1</version>
+    <title>ggUnit</title>
+    <authors>Andrew Fraser</authors>
+    <owners>Andrew Fraser</owners>
+    <licenseUrl>https://github.com/SuperDrew/ggUnit/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/SuperDrew/ggUnit</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Generate Group testing framework, for use in stochastic automated testing, see examples in the project for usage.</description>
+    <releaseNotes>Initial Release</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Testing Stochastic</tags>
+  </metadata>
+    <files>
+      <file src="bin\Release\GgUnit.dll" target="lib\net45"/>
+      <file src="bin\Release\GgUnit.pdb" target="lib\net45"/>
+    </files>
+</package>
